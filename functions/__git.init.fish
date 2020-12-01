@@ -130,7 +130,7 @@ function __git.init
   __git.create_abbr gco        git checkout
   __git.create_abbr gcb        git checkout -b
   __git.create_abbr gcod       git checkout develop
-  __git.create_abbr gcom       git checkout master
+  __git.create_abbr gcom       git checkout main
 
   # git flow abbreviations
   __git.create_abbr gfb        git flow bugfix
